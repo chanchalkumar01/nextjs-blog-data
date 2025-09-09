@@ -1,5 +1,12 @@
 [
   {
+    "id": 1757440939779,
+    "slug": "digital-privacy-in-2025--gen-z-ke-liye-survival-guide",
+    "title": "Digital Privacy in 2025 – Gen Z ke Liye Survival Guide.",
+    "content": "Aaj ke time me sabse bada asset “data” hai. Jo company aapka data control karti hai, wo aapke behavior aur decisions control kar sakti hai. Gen Z ke liye digital privacy ek survival skill ban chuki hai.\n\n🔑 Privacy Risks\n\nSocial Media Oversharing: Har din location, lifestyle, aur personal info share hota hai. Hackers ke liye ye ek goldmine hai.\n\nApps Data Tracking: Free apps apka personal info advertisers ko bechte hain.\n\nPublic Wi-Fi: Hackers free Wi-Fi pe apka data sniff kar lete hain.\n\nAI Surveillance: Governments aur companies AI-based face recognition use kar rahi hain.\n\n👨‍💻 Privacy Tips for Gen Z\n\nUse Strong Passwords + 2FA.\n\nVPN Use Karo jab bhi public Wi-Fi pe ho.\n\nApp Permissions Check Karo – unnecessary access (camera, mic) disable karo.\n\nEnd-to-End Encrypted Apps Use Karo (Signal, ProtonMail).\n\nDigital Minimalism adopt karo – jitna kam data share karoge utna safe rahoge.\n\n⚡ Developer’s Responsibility\n\nAgar tum coder ho, to apne apps me privacy by design approach adopt karo:\n\nDefault encrypted communication.\n\nMinimum data collection.\n\nTransparent privacy policies.\n\n✅ Conclusion\n\nDigital privacy ek luxury nahi, basic human right hai. Jo Gen Z isko seriously lega, wahi safe aur secure future enjoy karega. Jo ignore karega, wo easily exploit hoga.",
+    "date": "2025-09-09T18:02:19.779Z"
+  },
+  {
     "id": 1757440917113,
     "slug": "generative-ai--opportunities--risks-for-next-gen-developers",
     "title": "Generative AI – Opportunities & Risks for Next Gen Developers",
